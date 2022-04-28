@@ -4,8 +4,8 @@
 ## Step 1: Initialize
 ```bash
 $ git clone https://github.com/jGeorge1126/ChatBot-using-Python.git
-$ cd chatbot-deployment
-$ python3 -m venv venv
+$ cd ChatBot-using-Python
+$ python -m venv venv
 $ . venv/bin/activate
 ```
 
